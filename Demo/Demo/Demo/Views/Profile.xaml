@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Demo.Views.Profile">
+
+  <ScrollView>
+    <StackLayout>
+
+      <Image x:Name="img" Source="Panda.png" Aspect="AspectFit">
+        <Image.GestureRecognizers>
+          <TapGestureRecognizer
+       Tapped="lblSignUp_Tapped"/>
+        </Image.GestureRecognizers>
+      </Image>
+      
+      <Entry x:Name="nameEntry" Placeholder="Owner Name"/>
+      <Entry x:Name="petNameEntry" Placeholder="Pet Name"/>
+      <Entry x:Name="petAgeEntry" Placeholder="Pet Age"/>
+      <Picker x:Name="PickerGenderCategory" HorizontalOptions="FillAndExpand" Title="Pet Gender" >
+        <Picker.Items>      
+          <x:String>Male</x:String>
+          <x:String>Female</x:String>    
+        </Picker.Items>
+      </Picker>
+      <Picker x:Name="PickerTypeCategory" HorizontalOptions="FillAndExpand" Title="Pet Type">
+        <Picker.Items>
+          <x:String>Bird</x:String>
+          <x:String>Cat</x:String>
+          <x:String>Dog</x:String>
+          <x:String>Fish</x:String>
+          <x:String>Rabbit</x:String>
+          <x:String>Small Pet</x:String>
+          <x:String>Others</x:String>
+        </Picker.Items>
+      </Picker>
+      <ActivityIndicator x:Name="activityIndicator" IsRunning="False"></ActivityIndicator>
+      <Button Text="Save" Clicked="Dashboard_Clicked"></Button>
+    </StackLayout>
+  </ScrollView>
+</ContentPage>
