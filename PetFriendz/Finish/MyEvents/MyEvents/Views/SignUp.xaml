@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MyEvents.Views.SignUp">
+  <StackLayout Padding="20, 30, 20, 20" >
+    <Entry x:Name="emailEntry" Placeholder="Email"/>
+    <Entry x:Name="passwordEntry" Placeholder="Password" IsPassword="True"/>
+    <Entry x:Name="txtConfirmPassword" Placeholder="Confirm Password" IsPassword="True"  />
+    <Label x:Name="lblPasswordMatch" Text="Password and Confirm Password not match !!" FontAttributes="Bold" IsVisible="false" TextColor="Red"/>
+    <Button x:Name="signUpButton" Text="SignUp" Clicked="OnSignUp_Clicked" ></Button>
+    <ActivityIndicator x:Name="activityIndicator" Color="Blue" IsRunning="False" ></ActivityIndicator>
+
+
+  </StackLayout>
+</ContentPage>

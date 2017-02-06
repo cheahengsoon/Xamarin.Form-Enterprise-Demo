@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MyEvents.Views.Dashboard" Title="Dashboard">
+  <ContentPage.ToolbarItems >
+    <ToolbarItem Name="Profile" Order="Primary" Icon="Identity.png" Priority="0" Clicked="ProfileDetails_Clicked" Text="Profile"/>
+    <ToolbarItem Name="Friend"   Order="Primary" Icon="frienz.png" Priority="1" Clicked="Friends_Clicked"/>
+    <!--<ToolbarItem Name="Notification"   Order="Secondary" Priority="2" Clicked="Notice_Clicked"/>-->
+    <ToolbarItem Name="Log Out"   Order="Primary" Icon="LogOut.png" Priority="2" Clicked="LogOut_Clicked"/>
+
+  </ContentPage.ToolbarItems>
+</ContentPage>
