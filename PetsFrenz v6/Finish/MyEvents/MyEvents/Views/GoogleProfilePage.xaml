@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+              xmlns:viewModels="clr-namespace:MyEvents.ViewModels;assembly=MyEvents"
+             x:Class="MyEvents.Views.GoogleProfilePage"
+             Title="DashBoard G Profile">
+  <ContentPage.BindingContext>
+    <viewModels:GoogleViewModel/>
+  </ContentPage.BindingContext>
+  <ContentPage.ToolbarItems >
+    <ToolbarItem Name="Profile" Order="Primary" Icon="Identity.png" Priority="0" Clicked="ProfileDetails_Clicked" Text="Profile"/>
+    <ToolbarItem Name="Friend"   Order="Primary" Icon="frienz.png" Priority="1" Clicked="Friends_Clicked"/>
+    <!--<ToolbarItem Name="Notification"   Order="Secondary" Priority="2" Clicked="Notice_Clicked"/>-->
+    <ToolbarItem Name="Photo"   Order="Primary" Icon="Addition.png" Priority="2" Clicked="Album_Clicked"/>
+    <ToolbarItem Name="Log Out"   Order="Primary" Icon="LogOut.png" Priority="3" Clicked="LogOut_Clicked"/>
+
+
+  </ContentPage.ToolbarItems>
+
+
+  <StackLayout Padding="20, 30, 20, 20" x:Name="MainStackLayout">
+
+        <Label Text="{Binding GoogleProfile.DisplayName, StringFormat='{0}'}" x:Name="lblGoogleProfileName" IsVisible="False"/>
+    <Label x:Name="txtnorecord"   />
+    <ListView x:Name="userListView" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" HeightRequest="500" RowHeight="230" BackgroundColor="White" SeparatorColor="#009688" IsPullToRefreshEnabled="True"  >
+
+    </ListView>
+
+
+  </StackLayout>
+
+
+
+</ContentPage>

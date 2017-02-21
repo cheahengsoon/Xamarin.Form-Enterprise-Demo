@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MyEvents.Views.FrenzChat"
+             BackgroundColor="#C89C6B">
+  <!--<StackLayout>
+    <Label x:Name="txtownerName"  />
+    <Label x:Name="txtRealOwnerName" />
+  </StackLayout>-->
+
+  <StackLayout Padding="20, 30, 20, 20">
+    <Label x:Name="txtownerName" IsVisible="false" />
+    <Label x:Name="txtnorecord"   />
+    <ListView x:Name="userListView" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" HeightRequest="500" RowHeight="200" BackgroundColor="White" SeparatorColor="#009688" IsPullToRefreshEnabled="True" >
+
+    </ListView>
+
+
+  </StackLayout>
+</ContentPage>

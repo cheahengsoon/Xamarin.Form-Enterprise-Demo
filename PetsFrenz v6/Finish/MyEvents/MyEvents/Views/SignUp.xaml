@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MyEvents.Views.SignUp"
+  Title="Sign Up" BackgroundColor="#C89C6B">
+  <StackLayout Padding="20, 30, 20, 20" >
+    <Entry x:Name="emailEntry" Placeholder="Email" Keyboard="Email" TextChanged="EmailTextChanged"/>
+    <Label x:Name="lblEmailExists" Text="Email already exists" FontAttributes="Bold" IsVisible="false" TextColor="Red"/>
+    <Entry x:Name="passwordEntry" Placeholder="Password" IsPassword="True" />
+    <Entry x:Name="txtConfirmPassword" Placeholder="Confirm Password" IsPassword="True" TextChanged="PasswordTextChanged" />
+    <Label x:Name="lblPasswordMatch" Text="Password and Confirm Password not match !!" FontAttributes="Bold" IsVisible="false" TextColor="Red"/>
+    <Button x:Name="signUpButton" Text="SignUp" Clicked="OnSignUp_Clicked" ></Button>
+    <ActivityIndicator x:Name="activityIndicator" Color="Blue" IsRunning="False" ></ActivityIndicator>
+    <Label Text="Term and Condition" XAlign="Center"/>
+    <Label Text="Privacy Policy" XAlign="Center">
+      <Label.GestureRecognizers>
+        <TapGestureRecognizer
+     Tapped="lblPrivacyPolicy_Tapped" />
+      </Label.GestureRecognizers>
+    </Label>
+  </StackLayout>
+</ContentPage>

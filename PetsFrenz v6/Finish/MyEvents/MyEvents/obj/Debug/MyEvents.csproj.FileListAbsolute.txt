@@ -1,0 +1,427 @@
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\bin\Debug\MyEvents.dll.config
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\bin\Debug\MyEvents.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\bin\Debug\MyEvents.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\bin\Debug\HockeySDK.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\bin\Debug\Microsoft.ProjectOxford.Common.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\bin\Debug\Newtonsoft.Json.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Media.Abstractions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Media.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\bin\Debug\Newtonsoft.Json.xml
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Media.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Media.xml
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Media.Abstractions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Media.Abstractions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.csproj.App.config
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.csprojResolveAssemblyReference.cache
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.MainPage.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.App.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.SpeakersPage.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.SessionsPage.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.AboutPage.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.SessionDetailPage.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.LoginMain.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.Dashboard.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.FacebookProfilePage.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.ForgetPassword.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.FrenzChat.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.FriendList.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.FriendsDetails.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.GoogleProfilePage.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.NotificationList.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.PrivacyPolicy.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.Profile.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.ReportAbuse.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.RoutesCell.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.RoutesCellFrienz.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.SignUp.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\bin\Debug\Microsoft.WindowsAzure.Mobile.SQLiteStore.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Permissions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\bin\Debug\SQLitePCL.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\bin\Debug\Microsoft.WindowsAzure.Mobile.SQLiteStore.xml
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Permissions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Permissions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Connectivity.Abstractions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Connectivity.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Connectivity.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Connectivity.xml
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Connectivity.Abstractions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents\bin\Debug\MyEvents.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.csproj.App.config
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.csprojResolveAssemblyReference.cache
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.MainPage.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.App.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.SpeakersPage.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.SessionsPage.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.AboutPage.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.SessionDetailPage.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.LoginMain.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.Dashboard.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.FacebookProfilePage.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.ForgetPassword.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.FrenzChat.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.FriendList.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.FriendsDetails.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.GoogleProfilePage.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.NotificationList.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.PrivacyPolicy.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.Profile.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.ReportAbuse.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.RoutesCell.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.RoutesCellFrienz.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.SignUp.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\MyEvents.dll.config
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\MyEvents.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\MyEvents.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\HockeySDK.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\Microsoft.ProjectOxford.Common.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\Microsoft.WindowsAzure.Mobile.SQLiteStore.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\Newtonsoft.Json.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Connectivity.Abstractions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Connectivity.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Media.Abstractions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Media.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Permissions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\SQLitePCL.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\Microsoft.WindowsAzure.Mobile.SQLiteStore.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\Newtonsoft.Json.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Connectivity.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Connectivity.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Connectivity.Abstractions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Media.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Media.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Media.Abstractions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Media.Abstractions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Permissions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Permissions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.ImageList.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.ImageRouteList.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.PetAlbum.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\Badge.Plugin.Abstractions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\Badge.Plugin.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\Badge.Plugin.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\Badge.Plugin.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\Badge.Plugin.Abstractions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\Badge.Plugin.Abstractions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents\bin\Debug\MyEvents.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\MyEvents.dll.config
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\MyEvents.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\MyEvents.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\Badge.Plugin.Abstractions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\Badge.Plugin.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\HockeySDK.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\Microsoft.ProjectOxford.Common.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\Microsoft.WindowsAzure.Mobile.SQLiteStore.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\Newtonsoft.Json.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Connectivity.Abstractions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Connectivity.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Media.Abstractions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Media.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Permissions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\SQLitePCL.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\Badge.Plugin.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\Badge.Plugin.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\Badge.Plugin.Abstractions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\Badge.Plugin.Abstractions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\Microsoft.WindowsAzure.Mobile.SQLiteStore.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\Newtonsoft.Json.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Connectivity.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Connectivity.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Connectivity.Abstractions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Media.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Media.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Media.Abstractions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Media.Abstractions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Permissions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Permissions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.csproj.App.config
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.csprojResolveAssemblyReference.cache
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.MainPage.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.App.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.SpeakersPage.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.SessionsPage.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.AboutPage.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.SessionDetailPage.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.LoginMain.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.Dashboard.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.FacebookProfilePage.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.ForgetPassword.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.FrenzChat.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.FriendList.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.FriendsDetails.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.GoogleProfilePage.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.NotificationList.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.PrivacyPolicy.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.Profile.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.ReportAbuse.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.RoutesCell.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.RoutesCellFrienz.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.SignUp.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.ImageList.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.ImageRouteList.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.PetAlbum.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.DashboardB.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents\bin\Debug\MyEvents.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\MyEvents.dll.config
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\MyEvents.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\MyEvents.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\Badge.Plugin.Abstractions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\Badge.Plugin.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\HockeySDK.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\Microsoft.ProjectOxford.Common.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\Microsoft.WindowsAzure.Mobile.SQLiteStore.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\Newtonsoft.Json.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Connectivity.Abstractions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Connectivity.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Media.Abstractions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Media.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Permissions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\SQLitePCL.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\Badge.Plugin.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\Badge.Plugin.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\Badge.Plugin.Abstractions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\Badge.Plugin.Abstractions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\Microsoft.WindowsAzure.Mobile.SQLiteStore.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\Newtonsoft.Json.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Connectivity.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Connectivity.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Connectivity.Abstractions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Media.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Media.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Media.Abstractions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Media.Abstractions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Permissions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Permissions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.csproj.App.config
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.csprojResolveAssemblyReference.cache
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.MainPage.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.App.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.SpeakersPage.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.SessionsPage.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.AboutPage.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.SessionDetailPage.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.LoginMain.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.Dashboard.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.FacebookProfilePage.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.ForgetPassword.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.FrenzChat.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.FriendList.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.FriendsDetails.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.GoogleProfilePage.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.NotificationList.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.PrivacyPolicy.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.Profile.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.ReportAbuse.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.RoutesCell.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.RoutesCellFrienz.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.SignUp.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.ImageList.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.ImageRouteList.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.PetAlbum.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.DashboardB.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents\bin\Debug\MyEvents.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\MyEvents.dll.config
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\MyEvents.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\MyEvents.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\Badge.Plugin.Abstractions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\Badge.Plugin.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\HockeySDK.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\Microsoft.ProjectOxford.Common.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\Microsoft.WindowsAzure.Mobile.SQLiteStore.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\Newtonsoft.Json.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Connectivity.Abstractions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Connectivity.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Media.Abstractions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Media.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Permissions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\SQLitePCL.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\Badge.Plugin.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\Badge.Plugin.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\Badge.Plugin.Abstractions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\Badge.Plugin.Abstractions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\Microsoft.WindowsAzure.Mobile.SQLiteStore.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\Newtonsoft.Json.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Connectivity.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Connectivity.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Connectivity.Abstractions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Media.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Media.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Media.Abstractions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Media.Abstractions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Permissions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Permissions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.csproj.App.config
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.MainPage.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.App.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.SpeakersPage.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.SessionsPage.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.AboutPage.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.SessionDetailPage.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.LoginMain.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.Dashboard.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.FacebookProfilePage.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.ForgetPassword.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.FrenzChat.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.FriendList.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.FriendsDetails.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.GoogleProfilePage.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.NotificationList.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.PrivacyPolicy.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.Profile.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.ReportAbuse.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.RoutesCell.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.RoutesCellFrienz.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.SignUp.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.ImageList.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.ImageRouteList.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.PetAlbum.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.DashboardB.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.FacebookB.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.Views.GoogleB.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.csprojResolveAssemblyReference.cache
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.ViewsSocial.SocialProfile.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.ViewsSocial.SocialFrenz.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.ViewsSocial.SocialFrenzDetails.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.ViewsSocial.SocialFrenzSuggest.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.ViewsSocial.SCDetails.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.ViewsSocial.SocialOwnAlbum.xaml.g.cs
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\MyEvents.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\obj\Debug\MyEvents.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents\bin\Debug\MyEvents.dll.mdb

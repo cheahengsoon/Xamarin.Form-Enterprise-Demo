@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MyEvents.Views.LoginMain" BackgroundColor="#C89C6B">
+  <StackLayout Padding="20, 30, 20, 20" BackgroundColor="Transparent">
+    <Entry x:Name="emailEntry" Placeholder="Email" />
+    <Entry x:Name="passwordEntry" Placeholder="Password" IsPassword="True" />
+
+    <Button x:Name="signInButton" Text="SignIn" Clicked="SignIn_Clicked"/>
+    <ActivityIndicator x:Name="activityIndicator" IsRunning="False" Color="Blue"></ActivityIndicator>
+    <Label Text="Forgot your login details?" XAlign="Center" >
+      <Label.GestureRecognizers>
+        <TapGestureRecognizer
+     Tapped="lblForgetPassword_Tapped" />
+      </Label.GestureRecognizers>
+    </Label>
+    <Label FontSize="Small" Text="- OR -"  FontAttributes="Bold" HorizontalTextAlignment="Center" VerticalTextAlignment="Start"/>
+    <Button Text="Login with Facebook" HorizontalOptions="Fill" TextColor="White" BackgroundColor="#3b5998" Font="Bold" FontSize="Small" Clicked="LoginWithFacebook_Clicked"/>
+    <Button Text="Login with Google" TextColor="White" BackgroundColor="#db3236" Font="Bold" FontSize="Small" Clicked="LoginWithGoogle_Clicked"/>
+    <Label x:Name="lblSignUp" Text="Don't have an account?" XAlign="Center" >
+      <Label.GestureRecognizers>
+        <TapGestureRecognizer Tapped="lblSignUp_Tapped"
+    />
+      </Label.GestureRecognizers>
+    </Label>
+  </StackLayout>
+</ContentPage>

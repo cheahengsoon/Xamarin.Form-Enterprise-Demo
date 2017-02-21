@@ -1,0 +1,811 @@
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\MyEvents.Droid.dll.config
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\MyEvents.Droid.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\MyEvents.Droid.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\HockeySDK.AndroidBindings.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\HockeySDK.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\MyEvents.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.CurrentActivity.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Media.Abstractions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Media.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Permissions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\MyEvents.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.CurrentActivity.xml
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Media.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Media.xml
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Media.Abstractions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Media.Abstractions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Permissions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Permissions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\FormsViewGroup.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\MyEvents.Droid.csprojResolveAssemblyReference.cache
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\MyEvents.Droid.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\MyEvents.Droid.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\layout\tabbar.xml
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\layout\toolbar.xml
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\values\styles.xml
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\xamarin_logo.png
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\speakerphone.png
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\R.cs.flag
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\uploadflags.txt
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\MyEvents.Droid.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Media.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Media.Abstractions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Permissions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Java.Interop.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Mono.Android.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\mscorlib.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\MyEvents.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\System.Core.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\System.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\System.Xml.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\MyEvents.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\MyEvents.Droid.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Plugin.Media.Abstractions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Plugin.Media.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\System.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\ImageCircle.Forms.Plugin.Abstractions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.SQLiteStore.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\SQLitePCL.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.SQLiteStore.xml
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\ImageCircle.Forms.Plugin.Android.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\ImageCircle.Forms.Plugin.Android.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\ImageCircle.Forms.Plugin.Android.xml
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\petfrenzprivacystatement.pdf
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\background.jpg
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\camera.png
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\coolcorgi.png
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\email.png
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\folder.png
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\friends.png
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\frienz.png
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\identity.png
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\lightblue.jpg
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\login.png
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\logout.png
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\mainone.png
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\person.png
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\puppytwo.jpg
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\racecorgi.png
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\splash.png
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\ImageCircle.Forms.Plugin.Android.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\ImageCircle.Forms.Plugin.Android.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\com.mobico.petsfrenz.apk
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\com.mobico.petsfrenz-Signed.apk
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\bin\com.mobico.petsfrenz.apk
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Connectivity.Abstractions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Connectivity.dll
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Connectivity.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Connectivity.xml
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Connectivity.Abstractions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Connectivity.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Connectivity.Abstractions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Plugin.Connectivity.Abstractions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Plugin.Connectivity.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz 10022017 v3\Finish\MyEvents\MyEvents.Droid\obj\Debug\MyEvents.Droid.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\MyEvents.Droid.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\MyEvents.Droid.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\MyEvents.Droid.dll.config
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\MyEvents.Droid.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\MyEvents.Droid.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\com.mobico.petsfrenz.apk
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\com.mobico.petsfrenz-Signed.apk
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\HockeySDK.AndroidBindings.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\HockeySDK.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\ImageCircle.Forms.Plugin.Android.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.SQLiteStore.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\MyEvents.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Connectivity.Abstractions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Connectivity.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.CurrentActivity.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Media.Abstractions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Media.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Permissions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\SQLitePCL.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\MyEvents.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\MyEvents.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\ImageCircle.Forms.Plugin.Android.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\ImageCircle.Forms.Plugin.Android.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\ImageCircle.Forms.Plugin.Android.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.SQLiteStore.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Microsoft.WindowsAzure.Storage.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Connectivity.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Connectivity.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Connectivity.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Connectivity.Abstractions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Connectivity.Abstractions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.CurrentActivity.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Media.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Media.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Media.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Media.Abstractions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Media.Abstractions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Media.Abstractions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Permissions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Permissions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Permissions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\FormsViewGroup.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\MyEvents.Droid.csprojResolveAssemblyReference.cache
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\bin\com.mobico.petsfrenz.apk
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\petfrenzprivacystatement.pdf
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\layout\tabbar.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\layout\toolbar.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\values\styles.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\xamarin_logo.png
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\speakerphone.png
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\background.jpg
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\camera.png
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\coolcorgi.png
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\email.png
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\folder.png
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\friends.png
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\frienz.png
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\identity.png
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\lightblue.jpg
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\login.png
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\logout.png
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\mainone.png
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\person.png
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\puppytwo.jpg
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\racecorgi.png
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\splash.png
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\R.cs.flag
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\uploadflags.txt
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Java.Interop.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Mono.Android.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\mscorlib.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\MyEvents.Droid.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\System.Core.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\System.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\System.Xml.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\ImageCircle.Forms.Plugin.Abstractions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\ImageCircle.Forms.Plugin.Android.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\MyEvents.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\MyEvents.Droid.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Plugin.Connectivity.Abstractions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Plugin.Connectivity.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Plugin.Media.Abstractions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Plugin.Media.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\System.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Microsoft.WindowsAzure.Storage.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\addition.png
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Badge.Plugin.Abstractions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Badge.Plugin.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Badge.Plugin.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Badge.Plugin.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Badge.Plugin.Abstractions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Badge.Plugin.Abstractions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Badge.Plugin.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\bin\Debug\Badge.Plugin.Abstractions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Badge.Plugin.Abstractions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Badge.Plugin.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v4 14022017\Finish\MyEvents\MyEvents.Droid\obj\Debug\MyEvents.Droid.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\MyEvents.Droid.dll.config
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\MyEvents.Droid.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\MyEvents.Droid.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\com.mobico.petsfrenz.apk
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\com.mobico.petsfrenz-Signed.apk
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Badge.Plugin.Abstractions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Badge.Plugin.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\HockeySDK.AndroidBindings.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\HockeySDK.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\ImageCircle.Forms.Plugin.Android.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.SQLiteStore.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\MyEvents.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Connectivity.Abstractions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Connectivity.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.CurrentActivity.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Media.Abstractions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Media.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Permissions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\SQLitePCL.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\MyEvents.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\MyEvents.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Badge.Plugin.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Badge.Plugin.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Badge.Plugin.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Badge.Plugin.Abstractions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Badge.Plugin.Abstractions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Badge.Plugin.Abstractions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\ImageCircle.Forms.Plugin.Android.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\ImageCircle.Forms.Plugin.Android.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\ImageCircle.Forms.Plugin.Android.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.SQLiteStore.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Microsoft.WindowsAzure.Storage.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Connectivity.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Connectivity.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Connectivity.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Connectivity.Abstractions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Connectivity.Abstractions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.CurrentActivity.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Media.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Media.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Media.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Media.Abstractions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Media.Abstractions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Media.Abstractions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Permissions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Permissions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Permissions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\FormsViewGroup.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\MyEvents.Droid.csprojResolveAssemblyReference.cache
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\MyEvents.Droid.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\MyEvents.Droid.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\bin\com.mobico.petsfrenz.apk
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\petfrenzprivacystatement.pdf
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\layout\tabbar.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\layout\toolbar.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\values\styles.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\xamarin_logo.png
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\speakerphone.png
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\background.jpg
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\camera.png
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\coolcorgi.png
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\email.png
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\folder.png
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\friends.png
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\frienz.png
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\identity.png
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\lightblue.jpg
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\login.png
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\logout.png
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\mainone.png
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\person.png
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\puppytwo.jpg
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\racecorgi.png
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\splash.png
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\addition.png
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\R.cs.flag
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\uploadflags.txt
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Java.Interop.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Mono.Android.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\mscorlib.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\MyEvents.Droid.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\System.Core.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\System.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\System.Xml.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Badge.Plugin.Abstractions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Badge.Plugin.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\ImageCircle.Forms.Plugin.Abstractions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\ImageCircle.Forms.Plugin.Android.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Microsoft.WindowsAzure.Storage.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\MyEvents.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\MyEvents.Droid.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Plugin.Connectivity.Abstractions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Plugin.Connectivity.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Plugin.Media.Abstractions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Plugin.Media.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\System.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016\Finish\MyEvents\MyEvents.Droid\obj\Debug\MyEvents.Droid.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\MyEvents.Droid.dll.config
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\MyEvents.Droid.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\MyEvents.Droid.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\com.mobico.petsfrenz.apk
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\com.mobico.petsfrenz-Signed.apk
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Badge.Plugin.Abstractions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Badge.Plugin.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\HockeySDK.AndroidBindings.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\HockeySDK.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\ImageCircle.Forms.Plugin.Android.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.SQLiteStore.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\MyEvents.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Connectivity.Abstractions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Connectivity.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.CurrentActivity.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Media.Abstractions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Media.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Permissions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\SQLitePCL.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\MyEvents.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\MyEvents.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Badge.Plugin.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Badge.Plugin.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Badge.Plugin.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Badge.Plugin.Abstractions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Badge.Plugin.Abstractions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Badge.Plugin.Abstractions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\ImageCircle.Forms.Plugin.Android.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\ImageCircle.Forms.Plugin.Android.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\ImageCircle.Forms.Plugin.Android.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.SQLiteStore.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Microsoft.WindowsAzure.Storage.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Connectivity.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Connectivity.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Connectivity.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Connectivity.Abstractions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Connectivity.Abstractions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.CurrentActivity.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Media.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Media.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Media.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Media.Abstractions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Media.Abstractions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Media.Abstractions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Permissions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Permissions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Permissions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\FormsViewGroup.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\MyEvents.Droid.csprojResolveAssemblyReference.cache
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\MyEvents.Droid.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\MyEvents.Droid.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\bin\com.mobico.petsfrenz.apk
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\petfrenzprivacystatement.pdf
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\layout\tabbar.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\layout\toolbar.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\values\styles.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\xamarin_logo.png
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\speakerphone.png
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\background.jpg
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\camera.png
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\coolcorgi.png
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\email.png
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\folder.png
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\friends.png
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\frienz.png
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\identity.png
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\lightblue.jpg
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\login.png
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\logout.png
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\mainone.png
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\person.png
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\puppytwo.jpg
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\racecorgi.png
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\splash.png
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\addition.png
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\R.cs.flag
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\uploadflags.txt
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Java.Interop.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Mono.Android.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\mscorlib.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\MyEvents.Droid.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\System.Core.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\System.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\System.Xml.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Badge.Plugin.Abstractions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Badge.Plugin.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\ImageCircle.Forms.Plugin.Abstractions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\ImageCircle.Forms.Plugin.Android.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Microsoft.WindowsAzure.Storage.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\MyEvents.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\MyEvents.Droid.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Plugin.Connectivity.Abstractions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Plugin.Connectivity.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Plugin.Media.Abstractions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Plugin.Media.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\System.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v5 16022016 - Copy\Finish\MyEvents\MyEvents.Droid\obj\Debug\MyEvents.Droid.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\MyEvents.Droid.dll.config
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\MyEvents.Droid.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\MyEvents.Droid.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\com.mobico.petsfrenz.apk
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\com.mobico.petsfrenz-Signed.apk
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Badge.Plugin.Abstractions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Badge.Plugin.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\HockeySDK.AndroidBindings.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\HockeySDK.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\ImageCircle.Forms.Plugin.Android.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.SQLiteStore.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\MyEvents.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Connectivity.Abstractions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Connectivity.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.CurrentActivity.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Media.Abstractions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Media.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Permissions.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\SQLitePCL.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\MyEvents.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\MyEvents.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Badge.Plugin.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Badge.Plugin.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Badge.Plugin.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Badge.Plugin.Abstractions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Badge.Plugin.Abstractions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Badge.Plugin.Abstractions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\ImageCircle.Forms.Plugin.Android.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\ImageCircle.Forms.Plugin.Android.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\ImageCircle.Forms.Plugin.Android.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Microsoft.WindowsAzure.Mobile.SQLiteStore.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Microsoft.WindowsAzure.Storage.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Connectivity.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Connectivity.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Connectivity.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Connectivity.Abstractions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Connectivity.Abstractions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.CurrentActivity.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Media.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Media.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Media.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Media.Abstractions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Media.Abstractions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Media.Abstractions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Permissions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Permissions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Permissions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\FormsViewGroup.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\MyEvents.Droid.csprojResolveAssemblyReference.cache
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\MyEvents.Droid.dll
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\MyEvents.Droid.pdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\bin\com.mobico.petsfrenz.apk
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\petfrenzprivacystatement.pdf
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\layout\tabbar.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\layout\toolbar.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\values\styles.xml
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\xamarin_logo.png
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\speakerphone.png
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\background.jpg
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\camera.png
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\coolcorgi.png
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\email.png
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\folder.png
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\friends.png
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\frienz.png
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\identity.png
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\lightblue.jpg
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\login.png
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\logout.png
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\mainone.png
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\person.png
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\puppytwo.jpg
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\racecorgi.png
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\splash.png
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\res\drawable\addition.png
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\R.cs.flag
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\uploadflags.txt
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Java.Interop.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Mono.Android.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\mscorlib.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\MyEvents.Droid.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\System.Core.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\System.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\System.Xml.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Badge.Plugin.Abstractions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Badge.Plugin.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\ImageCircle.Forms.Plugin.Abstractions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\ImageCircle.Forms.Plugin.Android.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Microsoft.WindowsAzure.Storage.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\MyEvents.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\MyEvents.Droid.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Plugin.Connectivity.Abstractions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Plugin.Connectivity.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Plugin.Media.Abstractions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Plugin.Media.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\System.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\obj\Debug\MyEvents.Droid.dll.mdb
+C:\Users\es.cheah\Desktop\PetsFrenz v6\Finish\MyEvents\MyEvents.Droid\bin\Debug\MyEvents.Droid.dll.mdb

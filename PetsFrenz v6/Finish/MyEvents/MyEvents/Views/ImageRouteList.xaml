@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ViewCell xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="MyEvents.Views.ImageRouteList">
+ <Frame x:Name="frameLayer" 
+        BackgroundColor="#FFFFFF" 
+   >
+   <!--<Grid>
+     <Grid.RowDefinitions>
+       <RowDefiniton Height="Auto"/>
+     <RowDefiniton Height="Auto"/>
+     </Grid.RowDefinitions>
+   <Grid.ColumnDefinitions>
+      <ColumnDefinition Width="Auto" />
+    <ColumnDefinition Width="Auto" />
+    <ColumnDefinition Width="Auto" />
+    <ColumnDefinition Width="Auto" />
+   </Grid.ColumnDefinitions>
+   
+     
+    <Image x:Name="imageRoute" Source="person.jpg" Aspect="Fill" HeightRequest="150" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="4"/>
+   <Label x:Name="lblPetName" Text="Pet Name" Grid.Row="1" Grid.Column="0"/>
+    <Label x:Name="lblnolike" Grid.Row="1" Grid.Column="2"/>
+   </Grid>-->
+   
+   
+  <StackLayout>
+  
+    <Image x:Name="imageRoute" Source="person.jpg" Aspect="Fill" HeightRequest="150"/>
+   <Label x:Name="lblPetName" Text="Pet Name" VerticalOptions="Center"  HorizontalOptions="Center" FontAttributes="Bold" />
+    <!--<TextCell x:Name="lblPetName" Text="Hello"/>-->
+    <Label x:Name="lblnolike"  VerticalOptions="Center"  HorizontalOptions="Center" FontAttributes="Bold"/>
+
+</StackLayout>
+  </Frame>
+</ViewCell>

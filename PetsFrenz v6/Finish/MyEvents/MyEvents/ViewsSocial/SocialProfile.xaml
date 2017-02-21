@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+              xmlns:LocalImage="clr-namespace:ImageCircle.Forms.Plugin.Abstractions;assembly=ImageCircle.Forms.Plugin.Abstractions"
+             x:Class="MyEvents.ViewsSocial.SocialProfile"
+             Title="Profile" BackgroundColor="#C89C6B">
+  <ScrollView>
+    <StackLayout Padding="20, 30, 20, 20" >
+      <Label x:Name="txtSocialName" IsVisible="False"/>
+      <Label x:Name="txtID" IsVisible="False"/>
+      <!--<Image x:Name="img" Source="person.png" Aspect="AspectFit"/>-->
+      <LocalImage:CircleImage x:Name="img"
+               Source="person.png"
+                              Aspect="AspectFill"
+                BorderColor="Green"
+                BorderThickness="5"
+                BackgroundColor="Transparent"
+                WidthRequest="250"
+                HeightRequest="250"
+            />
+      <Button Text="Take Photo" x:Name="takePhoto" Image="Camera.png" />
+      <Button Text="Pick Photo" x:Name="pickPhoto" Image="Folder.png"/>
+      <Entry x:Name="nameEntry" Placeholder="Owner Name"/>
+      <Entry x:Name="petNameEntry" Placeholder="Pet Name"/>
+      <Entry x:Name="petAgeEntry" Placeholder="Pet Age"/>
+      <Picker x:Name="PickerGenderCategory" HorizontalOptions="FillAndExpand" Title="Pet Gender" >
+        <Picker.Items>
+          <x:String>Male</x:String>
+          <x:String>Female</x:String>
+        </Picker.Items>
+      </Picker>
+      <Picker x:Name="PickerTypeCategory" HorizontalOptions="FillAndExpand" Title="Pet Type">
+        <Picker.Items>
+          <x:String>Bird</x:String>
+          <x:String>Cat</x:String>
+          <x:String>Dog</x:String>
+          <x:String>Fish</x:String>
+          <x:String>Rabbit</x:String>
+          <x:String>Small Pet</x:String>
+          <x:String>Others</x:String>
+        </Picker.Items>
+      </Picker>
+      <ActivityIndicator x:Name="activityIndicator" IsRunning="False" Color="Blue"></ActivityIndicator>
+      <Entry x:Name="txtfilePath"/>
+      <Entry x:Name="txtRemoteFilePath" />
+      <Button Text="Save" Clicked="Dashboard_Clicked"></Button>
+    </StackLayout>
+  </ScrollView>
+</ContentPage>

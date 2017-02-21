@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+              xmlns:LocalImage="clr-namespace:ImageCircle.Forms.Plugin.Abstractions;assembly=ImageCircle.Forms.Plugin.Abstractions"
+             x:Class="MyEvents.ViewsSocial.SocialFrenzDetails" BackgroundColor="#C89C6B">
+
+
+  <ContentPage.Content>
+    <!--<Label x:Name="lblerror"/>-->
+    <Grid Padding="20, 30, 20, 20">
+      <Grid.RowDefinitions>
+        <RowDefinition Height="4*"/>
+        <RowDefinition Height="*"/>
+        <RowDefinition Height="*"/>
+        <RowDefinition Height="*"/>
+        <RowDefinition Height="*"/>
+        <RowDefinition Height="*"/>
+        <RowDefinition Height="*"/>
+        <RowDefinition Height="2*"/>
+        <RowDefinition Height="2*"/>
+        <RowDefinition Height="*"/>
+        <RowDefinition Height="*"/>
+        <RowDefinition Height="*"/>
+      </Grid.RowDefinitions>
+
+      <Grid.ColumnDefinitions>
+        <ColumnDefinition Width="*"/>
+        <ColumnDefinition Width="*"/>
+        <ColumnDefinition Width="*"/>
+        <ColumnDefinition Width="*"/>
+      </Grid.ColumnDefinitions>
+     
+      <LocalImage:CircleImage x:Name="img"
+         
+            Source="person.png"
+                           Aspect="AspectFill"
+             BorderColor="Green"
+             BorderThickness="5"
+             BackgroundColor="Transparent"
+             WidthRequest="250"
+             HeightRequest="250"
+             Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="4"/>
+      <Label Text="Pet Name" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" FontAttributes="Bold" XAlign="Center"/>
+      <Label x:Name="txtPetName" Grid.Row="1" Grid.Column="2" />
+
+      <Label Text="Pet Age" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" FontAttributes="Bold" XAlign="Center"/>
+      <Label x:Name="txtPetAge" Grid.Row="2" Grid.Column="2"/>
+
+      <Label Text="Pet Gender" Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" FontAttributes="Bold" XAlign="Center"/>
+      <Label x:Name="txtPetGender" Grid.Row="3" Grid.Column="2"/>
+
+      <Label Text="Pet Type" Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2" FontAttributes="Bold" XAlign="Center"/>
+      <Label x:Name="txtPetType" Grid.Row="4" Grid.Column="2"/>
+
+      <Label Text="Owner" Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="2" FontAttributes="Bold" XAlign="Center"/>
+      <Label x:Name="txtOwnerName" Grid.Row="5" Grid.Column="2"/>
+
+      <Label  Text="Like" Grid.Row="6" Grid.Column="0" Grid.ColumnSpan="2" FontAttributes="Bold" XAlign="Center"/>
+      <Label x:Name="txtNoLike" Grid.Row="6" Grid.Column="2"/>
+      
+      <Button Text="Pet Photos" Grid.Row="7" Grid.Column="0" Grid.ColumnSpan="4" Clicked="btnViewPhoto_Clicked"/>
+      <Button Text="Follow" Grid.Row="8" Grid.Column="0" Grid.ColumnSpan="4" Clicked="OnAddFriend_Clicked"/>
+      <!--<Label x:Name="txtcurrentuser" Grid.Row="9" Grid.Column="0" Grid.ColumnSpan="4" IsVisible="False" />-->
+      <Label x:Name="txtcurrentuserPetName" Grid.Row="9" Grid.Column="0" Grid.ColumnSpan="4" IsVisible="False"/>
+    </Grid>
+  </ContentPage.Content>
+</ContentPage>

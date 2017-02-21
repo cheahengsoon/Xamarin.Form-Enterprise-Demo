@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MyEvents.Views.ReportAbuse" Title="Report" BackgroundColor="#C89C6B">
+  <StackLayout Padding="20, 30, 20, 20" >
+
+    <Label Text="I would Like to report Owner" XAlign="Center"/>
+    <Label x:Name="txtowner" XAlign="Center" FontAttributes="Bold"/>
+    <Label Text="Reason" XAlign="Center"/>
+    <Editor Text="Please Enter the Reason Here" x:Name="txtDescription"/>
+    <Button Text="Submit"  Clicked="OnSubmit_Clicked"/>
+
+
+  </StackLayout>
+
+</ContentPage>
